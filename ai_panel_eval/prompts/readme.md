@@ -6,7 +6,7 @@ This set is designed systematically to probe the "corners" of the expertise spac
 | :--- | :--- | :--- | :--- | :--- |
 | **B-1: The ATE Specialist** | **Low** | **Low** | **High** | The deep correctness of the ATE-related diagnosis, ignoring the agentic implementation details. |
 | **B-2: The Agent Architect** | **Low** | **High** | **Low** | The logical coherence of the plan, the soundness of the proposed system change, and the strategy of the agentic workflow. |
-| **B-3: The Informed Stakeholde**| **Low**| **Low**| **None**| Comprehending the reasoning and trusting the outcome without deep technical knowledge in the specific domain (ABSA). |
+| **B-3: The Informed Stakeholder**| **Low**| **Low**| **None**| Comprehending the reasoning and trusting the outcome without deep technical knowledge in the specific domain (ABSA). |
 | **B-4: The AI Developer**| **High** | **High** | **High** | The end-to-end technical quality of the diagnosis and plan. "Is this a well-reasoned and well-designed solution I could build?" |
 | **B-5: The Generalist Data Analyst** | **Low** | **Low** | **Medium** | The clarity and unambiguity of the instructions. "Could I execute this maintenance plan without asking for help?" |
 
