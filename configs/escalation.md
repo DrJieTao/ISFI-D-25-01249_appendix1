@@ -3,7 +3,7 @@ The Escalation Analyzer monitors the Shared Memory Bus for two types of failure 
 
 ## C.1. Batch-Local Triggers (Transient Failures)
 These triggers fire immediately after a batch completes Tier 1 processing.
-* **Performance Drop**: Triggers if Batch Macro F1 < 0.75.
+* **Performance Drop**: Triggers if Batch Macro F1 < 0.8.
 * **Maladaptive Update**: Triggers if the F1 score decreases after the Review/Revise loop (i.e., $F1_{revised} < F1_{initial}$).
 
 ## C.2. Cross-Batch Triggers (Systemic Failures)
