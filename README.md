@@ -11,7 +11,7 @@
 | **Appendix B** | `ai_panel_eval/` | system and persona based prompts for the **AI Committee**, in Markdown format. |
 | **Appendix C** | `configs/escalation.md` | Thresholds for escalation triggers. |
 | **Appendix D** | `configs/memory_bus_schema.md` | Database schema for the relational SQLite database, as the implemenation of the **Shared Memory Bus**. |
-| **Appendix E.1** | `prompts_ADE/ate_prompt.txt` | Tier 1 **Decision Agent** Prompt (Standard & Revise Mode, include all ART specifications) for the generalizability test dataset (ADE). |
+| **Appendix E.1** | `prompts_ADE/decision_prompt.txt` | Tier 1 **Decision Agent** Prompt (Standard & Revise Mode, include all ART specifications) for the generalizability test dataset (ADE). |
 | **Appendix E.2** | `prompts_ADE/review_prompt.txt` | Tier 1 **Review Agent** Prompt (include all ART specifications) for the generalizability test dataset (ADE). |
 
 *Note: Raw datasets are excluded to comply with SemEval 2014 redistribution policies.*
